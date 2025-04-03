@@ -11,3 +11,6 @@
    commit id: , Author: , Date: , название комита initial project
 
 5. git push [репозиторий_url] [branch_ветка]
+   git push origin master
+   ссылка на реп - git remote -v
+   ветка - git branch
